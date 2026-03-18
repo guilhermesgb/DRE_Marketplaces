@@ -1,0 +1,12 @@
+{
+  "name": "dre-marketplaces",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update_dre.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^3.0.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
